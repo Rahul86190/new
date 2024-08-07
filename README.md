@@ -1,2 +1,1 @@
-# new so hi here are some useful codes for make daily life problems easy
-# by RAHUL SAINI
+Hy . This is Rahul saini . I have develop my interest in python language and here is my some usefull and amazing programs
